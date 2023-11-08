@@ -4,7 +4,7 @@ header { font-size: 1.2em;}
 hr { height: 2px; background: black; }
 .web-icon { padding-bottom: 1em; }
 body { padding: 2em; width: 680px; border: solid; }
-.invisible-box { border: hidden; margin-bottom: 3em; margin-right: 1.5em;}
+.invisible-box { border: hidden; margin-bottom: 5em; margin-right: 1.5em;}
 
 /* hover to make ul bold*/
 li:hover { font-weight:bold; }
